@@ -24,6 +24,10 @@ Bonus: **Scaling Up Compute - Working with high res ocean models**
 
 [![Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](http://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjbusecke%2Fleap-pangeo-demos&urlpath=lab%2Ftree%2Fleap-pangeo-demos%2F2024_05_23_LEAP_NSF_Site_Visit%2F04_ScaleUp_WorkingWithHighResolutionOceanModels.ipynb&branch=main)
 
+<details>
+
+<summary>Past Events</summary>
+
 ### 10/17/2023: LEAP Annual Meeting Y3 - LEAP-Pangeo Tutorial
 **Cloud Storage Basics with Xarray**
 
@@ -49,3 +53,5 @@ Bonus: **Scaling Up Compute - Working with high res ocean models**
 **Follow along interactively**
 
 [![Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjbusecke%2Fleap-pangeo-demos&urlpath=lab%2Ftree%2Fleap-pangeo-demos%2FReal_World_ARCO_CM2.6_fill_out.ipynb&branch=main)
+
+<details/>
