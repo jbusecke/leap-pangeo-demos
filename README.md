@@ -7,11 +7,11 @@ Collection of demos for the LEAP-Pangeo platform
 
 **When your server is not enough: Scaling large compute tasks with dask (gateway)**
 
-[![Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/leap-pangeo-training/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjbusecke%2Fleap-pangeo-demos.git&urlpath=lab%2Ftree%2Fleap-pangeo-demos.git%2F2024-annual-meeting-training-session%2F01-dask-intro.ipynb&branch=main)
+[![Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjbusecke%2Fleap-pangeo-demos&urlpath=lab%2Ftree%2Fleap-pangeo-demos%2F2024-annual-meeting-training-session%2F01-dask-intro.ipynb&branch=main)
 
 **Scaling further with Dask Gateway**
 
-[![Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/leap-pangeo-training/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjbusecke%2Fleap-pangeo-demos.git&urlpath=lab%2Ftree%2Fleap-pangeo-demos.git%2F2024-annual-meeting-training-session%2F02-dask-gateway-intro.ipynb&branch=main)
+[![Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjbusecke%2Fleap-pangeo-demos&urlpath=lab%2Ftree%2Fleap-pangeo-demos%2F2024-annual-meeting-training-session%2F02-dask-gateway-intro.ipynb&branch=main)
 
 
 <details>
