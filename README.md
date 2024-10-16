@@ -3,6 +3,21 @@ Collection of demos for the LEAP-Pangeo platform
 
 ## Links for specific Events
 
+### 10/16/2024: LEAP-Pangeo Training
+
+**When your server is not enough: Scaling large compute tasks with dask (gateway)**
+
+[![Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/leap-pangeo-training/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjbusecke%2Fleap-pangeo-demos.git&urlpath=lab%2Ftree%2Fleap-pangeo-demos.git%2F2024-annual-meeting-training-session%2F01-dask-intro.ipynb&branch=main)
+
+**Scaling further with Dask Gateway**
+
+[![Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/leap-pangeo-training/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjbusecke%2Fleap-pangeo-demos.git&urlpath=lab%2Ftree%2Fleap-pangeo-demos.git%2F2024-annual-meeting-training-session%2F02-dask-gateway-intro.ipynb&branch=main)
+
+
+<details>
+
+<summary>Past Events</summary>
+
 ### 05/23/2024: LEAP NSF Site Visit
 **Intro to LEAP-Pangeo**
 
@@ -23,10 +38,6 @@ Collection of demos for the LEAP-Pangeo platform
 Bonus: **Scaling Up Compute - Working with high res ocean models**
 
 [![Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](http://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjbusecke%2Fleap-pangeo-demos&urlpath=lab%2Ftree%2Fleap-pangeo-demos%2F2024_05_23_LEAP_NSF_Site_Visit%2F04_ScaleUp_WorkingWithHighResolutionOceanModels.ipynb&branch=main)
-
-<details>
-
-<summary>Past Events</summary>
 
 ### 10/17/2023: LEAP Annual Meeting Y3 - LEAP-Pangeo Tutorial
 **Cloud Storage Basics with Xarray**
